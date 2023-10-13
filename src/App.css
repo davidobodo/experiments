@@ -1,0 +1,91 @@
+.app {
+	padding: 50px;
+	height: 100vh;
+	/* background-color: yellow; */
+}
+
+body {
+	background-color: #fff;
+}
+
+.wrapper {
+	background-color: purple;
+}
+
+.box {
+	background-color: red;
+	height: 600px;
+	width: 100%;
+	border: 2px solid green;
+	font-size: 100px;
+}
+
+.container {
+	border: 2px solid purple;
+}
+.image-item {
+	padding-left: 20px;
+}
+
+.react-multi-carousel-list {
+	margin-left: -20px;
+}
+
+.main {
+	background-color: black;
+	border-radius: 6px;
+	display: inline-block;
+	padding: 6px 12px;
+	color: white;
+	cursor: pointer;
+}
+
+.items {
+	background-color: brown;
+	color: white;
+	padding: 6px 12px;
+	border-radius: 6px;
+	display: inline-block;
+}
+
+.tooltip-wrapper {
+	display: flex;
+	align-items: center;
+}
+
+.cta {
+	position: relative;
+}
+
+.flip {
+	position: absolute;
+	width: 250px;
+}
+
+.two {
+	height: 400px;
+	width: 400px;
+}
+
+.dnd-wrapper {
+	border: 2px solid black;
+	padding: 20px;
+}
+
+.dnd-file {
+	border: 1px solid green;
+	padding: 20px;
+	margin-bottom: 10px;
+}
+.dnd-folder {
+	border: 1px solid red;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.dnd-folder .title {
+	background-color: black;
+	color: white;
+	padding: 20px;
+	margin-bottom: 10px;
+}
